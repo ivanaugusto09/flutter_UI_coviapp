@@ -1,6 +1,9 @@
 # covid_app
 
-A new Flutter project.
+Flutter UI covid app
+Project for me to learn more about widgets in flutter
+Video tutorial that i used in this projetc: https://www.youtube.com/watch?v=zx6uMCoW2gQ
+Credits: The flutter way - https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw
 
 ## Getting Started
 
